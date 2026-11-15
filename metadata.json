@@ -1,0 +1,8 @@
+{
+  "name": "تواصل - Tawasol",
+  "description": "منصة تواصل اجتماعي شبابية متكاملة مع تكامل حي مع Google Sheets ولوحة تحكم مخصصة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
